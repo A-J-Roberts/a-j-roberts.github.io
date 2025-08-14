@@ -1,34 +1,49 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student in Physical Oceanography • <a href='https://inspire-dtp.ac.uk/'>INSPIRE DTP</a> • <a href='https://www.southampton.ac.uk/oes'>University of Southampton</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: IMG_6555_4000x4000.JPG
+  image_circular: false
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## Research
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I investigate **how Antarctic sea ice controls the global ocean's permanent pycnocline**, the density boundary that separates surface waters from deeper ocean storage. My research uses numerical ocean models to understand how changes in Antarctic sea ice formation affect stratification and circulation patterns worldwide.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+The ocean covers over 70% of Earth's surface and has absorbed about 30% of anthropogenic CO₂ emissions [(IPCC, 2022)](https://doi.org/10.1017/9781009157964), yet we understand *remarkably little* about how it works. The Southern Ocean is especially important because it accounts for 40% of the ocean's heat uptake despite covering only 25% of the global ocean area [(Williams et al., 2023)](https://doi.org/10.1098/rsta.2022.0062). Physical oceanography applies rigorous mathematical and computational methods to this **vast, dynamic system** that fundamentally controls our planet's climate.
+
+## Current Work
+
+My PhD research focuses on understanding the **mechanisms and timescales** through which local Antarctic changes propagate to influence *global* ocean processes. I run controlled experiments using high-performance ocean models with perturbed surface forcings to isolate specific physical processes.
+
+**Research interests:**
+- Southern Ocean physics and global ocean circulation
+- Ocean stratification and the permanent pycnocline  
+- Polar ocean processes under climate change
+- Policy applications of fundamental ocean research
+
+## Background
+
+**Education:** PhD in Physical Oceanography, University of Southampton (2024–present)  
+MPhysPhil in Physics and Philosophy, University of Oxford (2020–24)
+
+**Current supervisors:** [Alberto Naveira Garabato](https://www.southampton.ac.uk/people/5x2hkq/professor-alberto-naveira-garabato) (Southampton), [Helen Johnson](https://www.earth.ox.ac.uk/people/helen-johnson/) (Oxford), [Casimir de Lavergne](https://www.researchgate.net/profile/Casimir-De-Lavergne) (Sorbonne), [Andreas Klocker](https://www.norceresearch.no/en/persons/andreas-klocker) (NORCE Bjerknes)
+
+**Funding:** [INSPIRE Doctoral Training Partnership](https://inspire-dtp.ac.uk/) (NERC/ERC)
