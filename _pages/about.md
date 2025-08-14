@@ -27,15 +27,16 @@ latest_posts:
 
 I investigate **how Antarctic sea ice controls the global ocean's permanent pycnocline**, the density boundary that separates surface waters from deeper ocean storage. My research uses numerical ocean models to understand how changes in Antarctic sea ice formation affect stratification and circulation patterns worldwide.
 
-The ocean covers over 70% of Earth's surface and has absorbed about 30% of anthropogenic CO₂ emissions [(IPCC, 2022)](https://doi.org/10.1017/9781009157964), yet we understand *remarkably little* about how it works. The Southern Ocean is especially important because it accounts for 40% of the ocean's heat uptake despite covering only 25% of the global ocean area [(Williams et al., 2023)](https://doi.org/10.1098/rsta.2022.0062). Physical oceanography applies rigorous mathematical and computational methods to this **vast, dynamic system** that fundamentally controls our planet's climate.
+The ocean covers over 70% of Earth's surface and has absorbed about 30% of anthropogenic CO₂ emissions [(IPCC, 2022)](https://doi.org/10.1017/9781009157964), yet we understand _remarkably little_ about how it works. The Southern Ocean is especially important because it accounts for 40% of the ocean's heat uptake despite covering only 25% of the global ocean area [(Williams et al., 2023)](https://doi.org/10.1098/rsta.2022.0062). Physical oceanography applies rigorous mathematical and computational methods to this **vast, dynamic system** that fundamentally controls our planet's climate.
 
 ## Current Work
 
-My PhD research focuses on understanding the **mechanisms and timescales** through which local Antarctic changes propagate to influence *global* ocean processes. I run controlled experiments using high-performance ocean models with perturbed surface forcings to isolate specific physical processes.
+My PhD research focuses on understanding the **mechanisms and timescales** through which local Antarctic changes propagate to influence _global_ ocean processes. I run controlled experiments using high-performance ocean models with perturbed surface forcings to isolate specific physical processes.
 
 **Research interests:**
+
 - Southern Ocean physics and global ocean circulation
-- Ocean stratification and the permanent pycnocline  
+- Ocean stratification and the permanent pycnocline
 - Polar ocean processes under climate change
 - Policy applications of fundamental ocean research
 
