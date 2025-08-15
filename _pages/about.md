@@ -47,4 +47,4 @@ MPhysPhil in Physics and Philosophy, University of Oxford (2020–24)
 
 **Current supervisors:** [Alberto Naveira Garabato](https://www.southampton.ac.uk/people/5x2hkq/professor-alberto-naveira-garabato) (Southampton), [Helen Johnson](https://www.earth.ox.ac.uk/people/helen-johnson/) (Oxford), [Casimir de Lavergne](https://www.researchgate.net/profile/Casimir-De-Lavergne) (Sorbonne), [Andreas Klocker](https://www.norceresearch.no/en/persons/andreas-klocker) (NORCE Bjerknes)
 
-**Funding:** [INSPIRE Doctoral Training Partnership](https://inspire-dtp.ac.uk/) (NERC/ERC)
+**Funding:** [INSPIRE Doctoral Training Partnership](https://inspire-dtp.ac.uk/) (50% NERC, 50% ERC)
