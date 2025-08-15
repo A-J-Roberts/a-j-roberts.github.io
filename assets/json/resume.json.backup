@@ -1,0 +1,214 @@
+{
+  "basics": {
+    "name": "Alex Roberts",
+    "label": "PhD Student in Physical Oceanography",
+    "image": "IMG_6555_4000x4000.JPG",
+    "email": "", 
+    "phone": "",
+    "url": "https://a-j-roberts.github.io",
+    "summary": "PhD student investigating how Antarctic sea ice controls the global ocean's permanent pycnocline using numerical ocean models. Research focuses on understanding mechanisms and timescales of polar-to-global ocean processes. Based at the National Oceanography Centre, University of Southampton.",
+    "location": {
+      "address": "National Oceanography Centre",
+      "postalCode": "SO14 3ZH",
+      "city": "Southampton",
+      "countryCode": "UK",
+      "region": "England"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "University of Southampton / National Oceanography Centre",
+      "position": "PhD Student in Physical Oceanography",
+      "url": "https://www.southampton.ac.uk/oes",
+      "startDate": "2024-09-01",
+      "endDate": "2028-09-01",
+      "summary": "Investigating how Antarctic sea ice controls the global ocean's permanent pycnocline using numerical ocean models with perturbed surface forcings.",
+      "highlights": [
+        "Research focus: mechanisms and timescales of polar-to-global ocean processes",
+        "Supervisors: Alberto Naveira Garabato (Southampton), Helen Johnson (Oxford), Casimir de Lavergne (Sorbonne), Andreas Klocker (NORCE Bjerknes)",
+        "Funded by INSPIRE Doctoral Training Partnership (NERC/ERC)",
+        "Working thesis title: 'The Role of Antarctic Sea Ice in Configuring the Global Ocean'"
+      ]
+    },
+    {
+      "name": "University of Oxford",
+      "position": "Master's Research Project",
+      "url": "https://www.physics.ox.ac.uk",
+      "startDate": "2023-09-01",
+      "endDate": "2024-06-01",
+      "summary": "Master's dissertation: 'Rotational Forcing of the Global Ocean Circulation' supervised by Prof. David Marshall.",
+      "highlights": [
+        "Developed Python programs using Successive Over-Relaxation to solve elliptic PDEs",
+        "Analysed impact of wind shear forcing variations on global ocean circulation",
+        "Investigated Southern Ocean rotational forcing and latitude-dependent circulation responses",
+        "Awarded Johnson Memorial Prize for best MPhys project in Atmospheric, Oceanic and Planetary Physics"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Oxford",
+      "location": "Oxford, UK",
+      "url": "https://www.ox.ac.uk/",
+      "area": "Physics and Philosophy (First Class Honours, 3rd in cohort)",
+      "studyType": "Master of Physics and Philosophy (MPhysPhil)",
+      "startDate": "2020-10-01",
+      "endDate": "2024-06-01",
+      "courses": [
+        "Selected coursework with marks:",
+        "Physics of Atmospheres and Oceans (79)",
+        "Biological Physics (69)", 
+        "Master's Project Report (79)",
+        "General Relativity (83)",
+        "Fluids (74)",
+        "Classical Mechanics (72)",
+        "Intermediate Philosophy of Physics (69)"
+      ]
+    },
+    {
+      "institution": "Pate's Grammar School",
+      "location": "Cheltenham, UK", 
+      "url": "",
+      "area": "A Levels (A*A*A*A*)",
+      "studyType": "A Levels",
+      "startDate": "2018-09-01",
+      "endDate": "2020-06-01",
+      "courses": [
+        "Mathematics (A*)",
+        "Further Mathematics (A*)", 
+        "Physics (A*)",
+        "Philosophy (A*)",
+        "Extended Project Qualification (A)"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Brasenose College Ball Committee",
+      "location": "Oxford, UK",
+      "position": "Internal Vice President",
+      "url": "",
+      "startDate": "2023-08-01",
+      "endDate": "2024-05-01",
+      "summary": "Led team of 5 overseeing marketing, design, ticketing, security, and legal departments for 2024 Brasenose College Ball.",
+      "highlights": [
+        "Managed departmental budget use ensuring fiscal responsibility",
+        "Welcomed guests and resolved issues during ball night",
+        "Coordinated with executive committee and security staff"
+      ]
+    },
+    {
+      "organization": "Brasenose College JCR",
+      "location": "Oxford, UK", 
+      "position": "Vice President (Domestic)",
+      "url": "",
+      "startDate": "2022-01-01",
+      "endDate": "2023-08-01",
+      "summary": "Addressed domestic issues serving as point of contact for students and regular liaison with college staff.",
+      "highlights": [
+        "Organised annual room selection and termly storage allocation",
+        "Coordinated several formal dinners",
+        "Demonstrated strong communication, organisational, and problem-solving skills"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Gibbs Prize in Physics",
+      "date": "2024-06-01",
+      "awarder": "Department of Physics, University of Oxford",
+      "url": "",
+      "summary": "Academic Prize: Awarded for best performance in Physics papers in Part C of the Honour School of Physics and Philosophy. Based on cumulative performance in 'Physics of Atmospheres and Oceans' and 'Biological Physics'."
+    },
+    {
+      "title": "Johnson Memorial Prize",
+      "date": "2024-06-01", 
+      "awarder": "Department of Physics, University of Oxford",
+      "url": "",
+      "summary": "Academic Prize: Awarded for best MPhys project in Atmospheric, Oceanic and Planetary Physics for dissertation 'Rotational Forcing of the Global Ocean Circulation'."
+    },
+    {
+      "title": "Brasenose Undergraduate Scholarship",
+      "date": "2023-06-01",
+      "awarder": "Brasenose College, University of Oxford",
+      "url": "",
+      "summary": "Undergraduate Honour: Promotion from exhibitionship awarded for academic excellence."
+    },
+    {
+      "title": "Brasenose Undergraduate Exhibition", 
+      "date": "2021-06-01",
+      "awarder": "Brasenose College, University of Oxford",
+      "url": "",
+      "summary": "Undergraduate Honour: Awarded 2021 and sustained in 2022 for academic performance."
+    },
+    {
+      "title": "Best Individual Second Year Physics Presentation",
+      "date": "2022-06-01",
+      "awarder": "Brasenose College, University of Oxford", 
+      "url": "",
+      "summary": "Undergraduate Recognition: Best presentation in cohort of seven for 'How Heavy is an Atom?'"
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python (NumPy, Matplotlib, Pandas, Xarray, Cartopy)",
+        "Git/GitHub"
+      ]
+    },
+    {
+      "name": "Scientific Software",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-laptop",
+      "keywords": [
+        "MITgcm (ocean modelling) - https://mitgcm.org/",
+        "High-performance computing",
+        "Microsoft Office Suite",
+        "Excel (advanced)"
+      ]
+    },
+    {
+      "name": "Research Methods",
+      "level": "Advanced", 
+      "icon": "fa-solid fa-flask",
+      "keywords": [
+        "Numerical methods",
+        "Ocean modelling",
+        "Data analysis",
+        "Partial differential equations",
+        "Physical oceanography"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Physical Oceanography",
+      "icon": "fa-solid fa-water",
+      "keywords": [
+        "Southern Ocean physics",
+        "Ocean stratification", 
+        "Polar ocean processes",
+        "Global ocean circulation"
+      ]
+    },
+    {
+      "name": "Climate Physics",
+      "icon": "fa-solid fa-globe",
+      "keywords": [
+        "Chaotic systems",
+        "Atmosphere-ocean interactions",
+        "Climate modelling",
+        "Climate policy",
+        "Climate change"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

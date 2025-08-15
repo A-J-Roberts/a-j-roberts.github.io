@@ -2,96 +2,135 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
+      value: Alex Roberts
+    - name: Position
+      value: PhD Student in Physical Oceanography
+    - name: Email
+      value: <a href="mailto:A.J.Roberts@soton.ac.uk">A.J.Roberts@soton.ac.uk</a>
+    - name: Institution
+      value: University of Southampton
+    - name: Summary
+      value: PhD student investigating how Antarctic sea ice controls the global ocean's permanent pycnocline using numerical ocean models.
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Physical Oceanography
+      institution: University of Southampton
+      year: 2024 - 2028
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Working thesis title: '<i>The Role of Antarctic Sea Ice in Configuring the Global Ocean'</i>"
+        - "Supervisors: Alberto Naveira Garabato (Southampton), Helen Johnson (Oxford), Casimir de Lavergne (Sorbonne), Andreas Klocker (NORCE Bjerknes)"
+        - Research focus on mechanisms and timescales of polar-to-global ocean processes using numerical ocean models
+    - title: MPhysPhil Physics and Philosophy
+      institution: Brasenose College, University of Oxford
+      year: 2020 - 2024
       description:
-        - Description 1.
-        - Description 2.
+        - "First Class Honours (3rd in cohort)"
+        - "Selected coursework with marks:
+          <ul>
+          <li>Master's Project Report (79)</li>
+          <li>Physics of Atmospheres and Oceans (79)</li>
+          <li>Biological Physics (69)</li>
+          <li>General Relativity (83)</li>
+          <li>Fluids (74)</li>
+          </ul>"
+    - title: A Levels
+      institution: Pate's Grammar School, Cheltenham
+      year: 2018 - 2020
+      description:
+        - "Mathematics (A*), Further Mathematics (A*), Physics (A*), Philosophy (A*), Extended Project Qualification (A)"
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: PhD Research
+      institution: University of Southampton / National Oceanography Centre
+      year: 2024 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Investigating how Antarctic sea ice controls the global ocean's permanent pycnocline using numerical ocean models
+        - Running controlled experiments with perturbed surface forcings to understand polar-to-global ocean processes
+        - Using MITgcm on high-performance computing systems
+        - Focus on mechanisms and timescales of Antarctic changes propagating to global ocean circulation
+    - title: Master's Research Project
+      institution: Department of Physics, University of Oxford
+      year: 2023 - 2024
       description:
-        - Description 1.
-        - Description 2.
+        - "Dissertation: '<i>Rotational Forcing of the Global Ocean Circulation</i>'"
+        - "Supervisor: Prof. David Marshall"
+        - Developed Python programs using Successive Over-Relaxation to solve elliptic partial differential equations
+        - Analysed impact of wind shear forcing variations on global ocean circulation using wind and ocean bathymetry data
+        - Investigated Southern Ocean rotational forcing and latitude-dependent circulation responses to anthropogenic forcing
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Leadership & Volunteer Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Internal Vice President
+      institution: Brasenose College Ball Committee, Oxford
+      year: 2023 - 2024
+      description:
+        - Led team of 5 overseeing marketing, design, ticketing, security, and legal departments for 2024 Brasenose College Ball
+        - Managed departmental budget use ensuring fiscal responsibility
+        - Welcomed guests and resolved issues during ball night in coordination with executive committee
+    - title: Vice President (Domestic)
+      institution: Brasenose College JCR, Oxford
+      year: 2022 - 2023
+      description:
+        - Addressed domestic issues serving as point of contact for students and liaison with college staff
+        - Organised annual room selection, termly storage allocation, and several formal dinners
+        - Demonstrated strong communication, organisational, and problem-solving skills
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - "<b>Gibbs Prize in Physics</b> for best performance in the physics papers in Part C of the MPhysPhil degree"
+        - "<b>Johnson Memorial Prize</b> for best MPhys project in Atmospheric, Oceanic and Planetary Physics"
+    - year: 2023
       items:
-        - Max Planck Medal
+        - "Brasenose Undergraduate Scholarship (promotion from exhibitionship)"
+    - year: 2022
+      items:
+        - "Best Individual Second Year Physics Presentation ('<i>How Heavy is an Atom?</i>')"
+        - "Brasenose Undergraduate Exhibition (awarded 2021, sustained 2022)"
+
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Programming
+      items:
+        - "Python (advanced): <a href='https://numpy.org/'>NumPy</a>, <a href='https://matplotlib.org/'>Matplotlib</a>, <a href='https://pandas.pydata.org/'>Pandas</a>, <a href='https://xarray.pydata.org/en/stable/'>Xarray</a>, <a href='https://scitools.org.uk/cartopy/docs/latest/'>Cartopy</a>"
+        - "Git/GitHub for version control"
+        - "Numerical methods and partial differential equations"
+    - title: Scientific Software
+      items:
+        - "<a href='https://mitgcm.readthedocs.io/en/latest/'>MITgcm ocean modelling</a>"
+        - "High-performance computing systems"
+        - "Microsoft Office Suite and Excel (advanced)"
+    - title: Research Methods
+      items:
+        - "Ocean modelling and numerical experiments"
+        - "Data analysis and visualization"
+        - "Physical oceanography techniques"
+        - "Writing sustainable research software"
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Physical Oceanography
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Southern Ocean physics
+        - Global ocean circulation
+        - Ocean stratification and the permanent pycnocline
+        - Polar ocean processes under climate change
+    - title: Climate Physics
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Chaotic systems and atmosphere-ocean interactions
+        - Climate modelling and prediction
+        - Climate policy applications of fundamental research
+# - title: Future Sections
+#  type: list
+#  contents:
+#    - "<em>Publications:</em> To be added as research progresses"
+#    - "<em>Conference Presentations:</em> To be added following conference participation"
+#    - "<em>Additional Training:</em> To be updated with relevant courses and workshops"
